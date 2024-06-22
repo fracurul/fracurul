@@ -3,7 +3,6 @@
 <ul>
   <li>🌱 I'm a student at 42Málaga.</li>
   <li>💬 About me: Right now i'm focus on my studies at 42, but i would like to learn other programming languages like python and improve my knowledge in C++.
-  <li>✉️ Contact me: Francocurulla2000@gmail.com</li>
 </ul>
 
 ## <span style="font-size: 1.75em; color: #4CAF50;">42Projects📈</span>  
