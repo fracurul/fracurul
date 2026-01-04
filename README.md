@@ -42,6 +42,10 @@
           <td><a href="https://github.com/fracurul/minishell-42">Minishell💻</a></td>
           <td>Recreate a linux shell</td>
         </tr>
+         <tr>
+          <td><a href="https://github.com/fracurul/Cpp-modules">CPP📖</a></td>
+          <td>Basic exercises to learn c++</td>
+        </tr
     </tbody>
 </table>
 
