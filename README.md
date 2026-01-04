@@ -53,8 +53,6 @@
 ### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Stats
- <img src="https://github-readme-stats.vercel.app/api?username=fracurul&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 
 
