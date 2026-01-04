@@ -2,7 +2,7 @@
 
 <ul>
   <li>🌱 I'm a student at 42Málaga.</li>
-  <li>💬 About me: Right now i'm focus on my studies at 42, but i would like to learn other programming languages like python and improve my knowledge in C++.
+  <li>💬 Here, you would find the proyects i´ve been doing at 42Málaga foundation.
 </ul>
 
 ## <span style="font-size: 1.75em; color: #4CAF50;">42Projects📈</span>  
