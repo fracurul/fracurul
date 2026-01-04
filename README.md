@@ -38,6 +38,10 @@
           <td><a href="https://github.com/fracurul/Philo">Philo📜</a></td>
           <td>Recreate the problem of the philosophers dinner</td>
         </tr>
+      <tr>
+          <td><a href="https://github.com/fracurul/minishell-42">Minishell💻</a></td>
+          <td>Recreate a linux shell</td>
+        </tr>
     </tbody>
 </table>
 
