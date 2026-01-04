@@ -1,4 +1,4 @@
-# <span style="font-size: 2em; font-weight: bold; color: #4CAF50;">Hi, my name is Franco welcome to my github 👋</span>
+# <span style="font-size: 2em; font-weight: bold; color: #4CAF50;">Welcome to my github 👋</span>
 
 <ul>
   <li>🌱 I'm a student at 42Málaga.</li>
