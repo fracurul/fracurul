@@ -38,6 +38,9 @@
 </table>
 
 
+## Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
+
 
 
 
