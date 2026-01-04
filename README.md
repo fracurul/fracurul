@@ -37,23 +37,23 @@
     </tbody>
 </table>
 
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Utilities
+### Utilities
 ![Makefile](https://img.shields.io/badge/Makefile-E67E22?style=for-the-badge&logo=gnu&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LLDB](https://img.shields.io/badge/LLDB-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-3E1C14?style=for-the-badge&logoColor=white)
 
-## Systems
+### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Stats
-
+### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fracurul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fracurul&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fracurul&theme=tokyonight&hide_border=true)
