@@ -1,7 +1,7 @@
 # <span style="font-size: 2em; font-weight: bold; color: #4CAF50;">Welcome to my github 👋</span>
 
 <ul>
-  <li>🌱 I'm a student at 42Málaga.</li>
+  <li> 🎓 I'm a student at 42Málaga.</li>
   <li>💬 Here, you would find the projects i´ve been doing at 42Málaga foundation.
 </ul>
 
