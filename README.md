@@ -46,6 +46,10 @@
           <td><a href="https://github.com/fracurul/Cpp-modules">CPP📖</a></td>
           <td>Basic exercises to learn c++</td>
         </tr
+               <tr>
+          <td><a href="https://github.com/fracurul/cub3d">cub3D🕹️</a></td>
+          <td>Do your own FP game</td>
+        </tr
     </tbody>
 </table>
 
