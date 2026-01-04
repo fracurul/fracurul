@@ -61,6 +61,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LLDB](https://img.shields.io/badge/LLDB-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-3E1C14?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
