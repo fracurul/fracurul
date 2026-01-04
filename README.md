@@ -35,7 +35,7 @@
           <td>Do your own 2D game!</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/fracurul/so_long">Philo🕹️</a></td>
+          <td><a href="https://github.com/fracurul/Philo">Philo📜</a></td>
           <td>Recreate the problem of the philosophers dinner</td>
         </tr>
     </tbody>
