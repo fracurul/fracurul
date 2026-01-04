@@ -54,7 +54,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fracurul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=fracurul&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 
 
