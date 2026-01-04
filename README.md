@@ -34,6 +34,10 @@
           <td><a href="https://github.com/fracurul/so_long">So_long🕹️</a></td>
           <td>Do your own 2D game!</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/fracurul/so_long">Philo🕹️</a></td>
+          <td>Recreate the problem of the philosopher dinner</td>
+        </tr>
     </tbody>
 </table>
 
