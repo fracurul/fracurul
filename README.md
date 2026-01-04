@@ -36,7 +36,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/fracurul/so_long">Philo🕹️</a></td>
-          <td>Recreate the problem of the philosopher dinner</td>
+          <td>Recreate the problem of the philosophers dinner</td>
         </tr>
     </tbody>
 </table>
